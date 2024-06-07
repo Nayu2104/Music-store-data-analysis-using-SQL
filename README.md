@@ -1,1 +1,2 @@
-# Music-store-data-analysis-using-SQL
+# Music-store-Data-analysis-using-sql
+Music-store-Data-analysis-using-sql
